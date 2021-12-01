@@ -167,7 +167,6 @@ select {
     color: #42515F;
 }
 
-
 @media only screen and (max-width: 960px){
     .cancelButton{
         margin-left: 0px;
