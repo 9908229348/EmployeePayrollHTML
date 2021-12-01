@@ -168,7 +168,7 @@ select {
 }
 
 @media only screen and (max-width: 960px){
-    .cancelButton{
+    .cancelButton {
         margin-left: 0px;
     }
     .form {
@@ -178,13 +178,13 @@ select {
 }
 
 @media only screen and (max-width: 600px){
-    .form{
+    .form {
         margin-top: 10px;
     }
     .row {
         flex-direction: column;
     }
-    .uploadButton{
+    .uploadButton {
         justify-content: flex-start;
     }
     .profile-radio-button{
